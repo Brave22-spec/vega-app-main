@@ -146,7 +146,7 @@ module.exports = () => {
       extra: {
         hasFirebase: hasAndroidGoogleServices || hasIosGooglePlist,
         eas: {
-          projectId: '4e5446f9-eea8-485a-b7a4-dd178587fce5',
+          projectId: 'f9a70549-b5a1-4532-b5b0-b26e1602ea43',
         },
       },
     },
