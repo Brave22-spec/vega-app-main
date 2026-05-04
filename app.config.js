@@ -145,6 +145,9 @@ module.exports = () => {
       platforms: ['ios', 'android'],
       extra: {
         hasFirebase: hasAndroidGoogleServices || hasIosGooglePlist,
+        eas: {
+          projectId: '4e5446f9-eea8-485a-b7a4-dd178587fce5',
+        },
       },
     },
   };
